@@ -31,8 +31,8 @@ Once the general size of the case is figured out the next step is to figure out 
 
 After printing out the LED holder layer, the LEDs can be fitted and wired up easily since they are serial devices.
 
-![label](documents/Photos/Attachments/Prototyping-2.jpg%0D) 
-![Alt text](documents/Photos/Attachments/Prototyping-1.jpg)
+![label](documents/Photos/Attachments/Prototyping-2.jpg) 
+![Alt text](documents/Photos/Attachments/Prototyping-3.jpg)
 
 # Woodworking
 
